@@ -1,7 +1,10 @@
 # TDD
 ## Synopsis
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+This Project was created after an Interview with  [Stevi Deter](http://www.stevideter.com/ "Stevi Deter") - [GitHub - Stevi Deter](https://github.com/stevideter "GitHub - Stevi Deter")
+I have worked a lot with creating UnitCases in my academic career. But at job due to various constraint had never use them. When Global ID Group was becoming inclined towards going Cloud and Test Driven Development. I was leaving for bigger opportunities. However at other places where I worked I was not able to get to work on cloud using TDD approach to development. This Interview and this repository will help in documenting my experiences with Test Driven Development.
+
+This is a short tutorial on test driven development with C#. In this project I am going to follow the video tutorial on Test Driven Development in C# with NUnit and Moq by Simon Dineen and then add my logic for extending this application to create a better tutorial for TDD with detail documentation.
 
 ## Code Example
 
